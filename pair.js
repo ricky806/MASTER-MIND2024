@@ -64,7 +64,7 @@ router.get('/', async (req, res) => {
 
 > Master-Mind-V3 First step complete
 
- *©_𓄂𐎓🐼мαѕтєя мιη∂ 𒐕꯭꯭𒐕꯭꯭ν3•┼⃖🐬_*
+ *©_𓄂𐎓🐼𝛥𝐿𝛯𝛸 𝛲𝛪𝛫𝑈 𒐕꯭꯭𒐕꯭꯭ν3•┼⃖🐬_*
 ` }, {quoted: xeonses});
         await delay(100);
         return await removeFile('./session');
